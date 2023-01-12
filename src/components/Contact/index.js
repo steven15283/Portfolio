@@ -97,9 +97,9 @@ const Contact = () => {
           Harrison, New Jersey <br />
         </div>
         <div className="map-wrap">
-          <MapContainer center={[40.74647903442383, -74.15666198730469]} zoom={13}>
+          <MapContainer center={[40.7478331, -74.1492548]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[40.74647903442383, -74.15666198730469]}>
+            <Marker position={[40.7478331, -74.1492548]}>
               <Popup>This is where I live</Popup>
             </Marker>
           </MapContainer>

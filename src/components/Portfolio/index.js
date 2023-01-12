@@ -39,7 +39,7 @@ const Portfolio = () => {
                                 <img 
                                 src={port.image}
                                 className="portfolio-image"
-                                alt="portfolio" />
+                                alt="project" />
                                 <div className="content">
                                     <p className="title">{port.name}</p>
                                     <h4 className="description">{port.description}</h4>
@@ -63,7 +63,7 @@ const Portfolio = () => {
                 <h1 className="page-title">
                     <AnimatedLetters
                         letterClass={letterClass}
-                        strArray={"Portfolio".split("")}
+                        strArray={"Projects".split("")}
                         idx={15}
                     />
                 </h1>

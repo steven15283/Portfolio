@@ -39,7 +39,7 @@ const Portfolio = () => {
                                 <img 
                                 src={port.image}
                                 className="portfolio-image"
-                                alt="project" />
+                                alt="portfolio" />
                                 <div className="content">
                                     <p className="title">{port.name}</p>
                                     <h4 className="description">{port.description}</h4>

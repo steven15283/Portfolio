@@ -41,9 +41,9 @@ const About = () => {
                   />
                 </h1>
                 <p>
-                  I'm looking for a place to grow as a software engineer. 
-                  I'm a very ambitious Software engineer looking for a role in an
+                  I'm a very ambitious engineer looking for a role in an
                   established company with the opportunity to work on challenging and diverse projects.
+                  I am primarly looking for a software engineer position, however I am also interested in systems engineering and test engineering.
                 </p>
                 <p>
                   If I had to define myself in one sentence, that would be 
@@ -51,8 +51,8 @@ const About = () => {
                   Some hobbies I have are video gaming, cooking, and researching new technology.
                 </p>
                 <p>
-                  Some skills that I possess are problem solving, written and verbal communication, restful API design, user experience design and concepts,
-                  object-oriented design, software development life-cycles and techniques, and agile methodologies.  
+                  Some skills that I possess are problem solving, written and verbal communication, 
+                  working in a team, I pay attention to detail, and I am open to feedback.  
                 </p>
                 <p>
                   Some programming skills I posess are C++, Java, Springboot, Html, Css, Javascript, React.js. 

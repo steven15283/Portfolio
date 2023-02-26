@@ -51,7 +51,8 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in software engineering and software testing opportunities. I can be reached using the form below or email me at stevenguo15283@gmail.com.
+            I am interested in Software Engineering, Software Testing, and Systems Engineering opportunities. Please email me if you are interested.
+            I can be reached using the form below or email me at stevenguo15283@gmail.com.
           </p>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>

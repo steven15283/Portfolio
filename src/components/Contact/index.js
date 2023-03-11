@@ -94,13 +94,12 @@ const Contact = () => {
         <div className="info-map">
           Steven Guo,
           <br />
-          746 Harrison Ave. <br />
           Harrison, New Jersey <br />
         </div>
         <div className="map-wrap">
-          <MapContainer center={[40.7478331, -74.1492548]} zoom={13}>
+          <MapContainer center={[40.746490, -74.156255]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[40.7478331, -74.1492548]}>
+            <Marker position={[40.746490, -74.156255]}>
               <Popup>This is where I live</Popup>
             </Marker>
           </MapContainer>
